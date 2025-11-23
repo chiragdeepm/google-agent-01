@@ -1,0 +1,8 @@
+
+
+Refer to this source for more info on setting up google agents
+https://google.github.io/adk-docs/get-started/python/#installation
+
+
+
+I used python venv command to create a virtual environment to store all my files
