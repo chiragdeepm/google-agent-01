@@ -6,3 +6,30 @@ https://google.github.io/adk-docs/get-started/python/#installation
 
 
 I used python venv command to create a virtual environment to store all my files
+
+
+
+Now, I want to create the small sample blocks that can be re-used over and over to build something bigger: 
+
+1. An Agent that connects to the internet 
+2. An Agent that can call multiple functions like a toolbox 
+3. An Agent that has 2 agents in it - 1 takes the input from the user and makes an output that is fed to a second agent which is then returned to the user
+4. An Agent that can store data across multiple sessions 
+
+This should complete all of the ways in which an agent can be used. 
+
+After this, we need to look into building simple use cases that combine the above. These use cases will serve as proto-types to building something bigger 
+
+Some ideas I have: 
+1. Tool to search the internet and get news about whats happening in each country in different domains 
+2. Tool that searches the internet and uses archive.is to unblock and retrieve information from the source
+3. Tool that can do BODMAS 
+4. Tool that can calculate bond details 
+
+
+Once these are built, I can tackle big picture challenges such as: 
+1. News source with viewpoints from all angles 
+2. Stock news analysis on a daily weekly monthly annual basis 
+
+
+
