@@ -32,4 +32,4 @@ Once these are built, I can tackle big picture challenges such as:
 2. Stock news analysis on a daily weekly monthly annual basis 
 
 
-Also make sure this is accessible from your tablet
+Also make sure this is accessible from your tablet and phone.
